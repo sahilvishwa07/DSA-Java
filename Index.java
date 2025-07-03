@@ -43,5 +43,6 @@ public static void main(String[] args) {
             }
         }
     }
+    // here is the main method that finds common elements in two arrays
 }
 }
